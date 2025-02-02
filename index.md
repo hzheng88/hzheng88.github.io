@@ -18,6 +18,7 @@ My research focuses on:
 
 ### Publications
 
+1. Yang, Heng; Chen, Shuanglong; Bian, Qingyun; *Zheng, Hui*\* (2025) Evaluation of atmospheric model parameterization schemes with river network routing and streamflow observations: A case study of the Yarlung Zangbo River on the Tibetan Plateau. Water Resources Research (under review).
 1. Yang, Heng; Chen, Shuanglong; *Zheng, Hui*\* (2025) [Technical note: Drainage density-preserving river network delineation algorithm](https://github.com/hzheng88/paper-2025-density-preserving-river-extraction). Water, 17(11), 1636. <https://doi.org/10.3390/w17111636>
 1. Chen, Shuanglong; Yang, Heng; *Zheng, Hui*\* (2025) [Intercomparison of runoff and river discharge reanalysis datasets at the Upper Jinsha River, an alpine river on the eastern edge of the Tibetan Plateau](https://github.com/hzheng88/paper-2025-upperjsj-streamflow-intercomp). Water, 17(6), 871. <https://doi.org/10.3390/w17060871
 1. Lei, Xiangyong; Lin, Peirong\*; *Zheng, Hui*; Fei, Wenli; Yin, Ziyun; Ren, Huazhong (2025). Systematic analyses of the meteorological forcing and process parameterization uncertainties in modeling runoff with Noah-MP for the Upper Brahmaputra river basin. Journal of Hydrology, 653, 132686. <https://doi.org/10.1016/j.jhydrol.2025.132686>
